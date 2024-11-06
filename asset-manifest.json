@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.ab00d5ae.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/pfp1.png": "/home/static/media/pfp1.bc4db37fa1c9277c5fe6.png",
+    "static/media/sololearn.png": "/home/static/media/sololearn.8180ec199f61f41aa13c.png",
+    "static/media/google.png": "/home/static/media/google.5bcb314df2915e930c32.png",
+    "static/media/cisco.png": "/home/static/media/cisco.6441899b88d412db07fa.png",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.ab00d5ae.js.map": "/home/static/js/main.ab00d5ae.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.ab00d5ae.js"
+  ]
+}
